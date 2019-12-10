@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj": {}
+    "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj": {
+    "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj",
         "projectName": "Project1.Test",
-        "projectPath": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj",
+        "projectPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj",
         "packagesPath": "C:\\Users\\Donald\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\obj\\",
+        "outputPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj": {
+                "projectPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -65,6 +69,17 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj",
+        "projectName": "Project1",
+        "projectPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

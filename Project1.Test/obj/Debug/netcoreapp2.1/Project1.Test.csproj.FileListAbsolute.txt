@@ -12,3 +12,25 @@ C:\Users\Donald\source\repos\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Proj
 C:\Users\Donald\source\repos\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.AssemblyInfo.cs
 C:\Users\Donald\source\repos\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.dll
 C:\Users\Donald\source\repos\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.pdb
+C:\Users\Donald\source\repos\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.exe
+C:\Users\Donald\source\repos\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.pdb
+C:\Users\Donald\source\repos\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.exe.config
+C:\Users\Donald\source\repos\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.csproj.CopyComplete
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.Test.deps.json
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.Test.runtimeconfig.json
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.Test.runtimeconfig.dev.json
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.Test.dll
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.Test.pdb
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.exe
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.pdb
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\bin\Debug\netcoreapp2.1\Project1.exe.config
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.csprojAssemblyReference.cache
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.csproj.CoreCompileInputs.cache
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.AssemblyInfoInputs.cache
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.AssemblyInfo.cs
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.csproj.CopyComplete
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.dll
+C:\Users\Donald\Desktop\Computational Methods\Project1\Project1.Test\obj\Debug\netcoreapp2.1\Project1.Test.pdb

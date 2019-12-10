@@ -1617,6 +1617,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Project1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Project1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project1.dll": {}
+        }
       }
     }
   },
@@ -5809,6 +5818,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Project1/1.0.0": {
+      "type": "project",
+      "path": "../Project1/Project1.csproj",
+      "msbuildProject": "../Project1/Project1.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5816,7 +5830,8 @@
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Project1 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5826,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj",
       "projectName": "Project1.Test",
-      "projectPath": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\Project1.Test.csproj",
+      "projectPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\Project1.Test.csproj",
       "packagesPath": "C:\\Users\\Donald\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donald\\source\\repos\\Project1\\Project1.Test\\obj\\",
+      "outputPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5848,7 +5863,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj": {
+              "projectPath": "C:\\Users\\Donald\\Desktop\\Computational Methods\\Project1\\Project1\\Project1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

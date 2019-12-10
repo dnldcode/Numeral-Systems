@@ -10,7 +10,14 @@ namespace Project1
 	{
 		static void Main(string[] args)
 		{
-			Convertor.Convert(Console.ReadLine());
+			while (true)
+			{
+				Console.WriteLine("\n\nType a number:");
+				Convertor.Convert(Console.ReadLine());
+
+				Console.Write("\nContinue? [Esc] to quit, [Enter] to continue: ");
+				if (Console.ReadKey().Key == ConsoleKey.Escape) break;
+			}
 		}
 	}
 }
