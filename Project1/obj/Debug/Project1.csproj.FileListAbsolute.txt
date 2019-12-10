@@ -16,7 +16,3 @@ C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\obj\Debug\Projec
 C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\Project1.exe.config
 C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\Project1.exe
 C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\Project1.pdb
-C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\nunit.framework.dll
-C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\nunit.framework.pdb
-C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\bin\Debug\nunit.framework.xml
-C:\Users\Donald\Desktop\Computational Methods\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
