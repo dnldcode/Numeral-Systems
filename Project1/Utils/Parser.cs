@@ -29,13 +29,13 @@ namespace Project1
 		static private bool isDecimal(String value)
 		{
 			double res;
-			return !value.StartsWith("0") && Double.TryParse(value, out res);
+			return (!value.StartsWith("0") || value.StartsWith("0,")) && Double.TryParse(value, out res);
 		}
 
 		static private bool isOctal(String value)
 		{
 			double res;
-			return value.StartsWith("0") && Double.TryParse(value, out res) && !value.Contains("8") && !value.Contains("9");
+			return value.StartsWith("0") && !value.StartsWith("0,") && Double.TryParse(value, out res) && !value.Contains("8") && !value.Contains("9");
 		}
 
 		static private bool isHex(String value)
